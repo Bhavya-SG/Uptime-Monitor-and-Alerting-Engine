@@ -11,11 +11,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GNU Affero General Public License v3.0 License][license-shield]][license-url]
 
 
 
@@ -26,8 +21,6 @@
   <p align="center">
     Remote Monitoring and Management (RMM) Software.
     <br />
-    <a href="https://JelleBuning/sentinel/not_found">Demo</a>
-    ·
     <a href="https://github.com/JelleBuning/sentinel/wiki">Explore the docs</a>
   </p>
 </div>
